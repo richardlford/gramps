@@ -25,3 +25,6 @@ ehthumbs.db
 
 # Glade temp files
 *~
+.DS_Store
+venv
+gramps.egg-info
